@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Softbreak.OnionArch.InnerInfrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+670987c188f113a985ea600a969bdb64dfbfc805")]
 [assembly: System.Reflection.AssemblyProductAttribute("Softbreak.OnionArch.InnerInfrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Softbreak.OnionArch.InnerInfrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

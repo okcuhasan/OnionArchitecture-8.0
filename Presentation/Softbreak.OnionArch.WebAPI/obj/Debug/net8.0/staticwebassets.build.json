@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "asM4yAnSS34KMYYr2N1k1N0HKopewaW90BkN2VsIqf0=",
+  "Source": "Softbreak.OnionArch.WebAPI",
+  "BasePath": "_content/Softbreak.OnionArch.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

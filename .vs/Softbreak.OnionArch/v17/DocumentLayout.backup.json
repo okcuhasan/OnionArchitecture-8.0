@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Infrastructure\\Softbreak.OnionArch.Persistence\\Migrations\\20250223153158_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Softbreak.OnionArch.Persistence\\Migrations\\20250223153158_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0D09B2-A69F-45F4-A108-151B0E43326F}|Presentation\\Softbreak.OnionArch.WebAPI\\Softbreak.OnionArch.WebAPI.csproj|c:\\users\\90554\\source\\repos\\softbreak.onionarch\\presentation\\softbreak.onionarch.webapi\\softbreak.onionarch.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA0D09B2-A69F-45F4-A108-151B0E43326F}|Presentation\\Softbreak.OnionArch.WebAPI\\Softbreak.OnionArch.WebAPI.csproj|solutionrelative:presentation\\softbreak.onionarch.webapi\\softbreak.onionarch.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31407566-F47B-4A68-BA7D-2046967454B3}|Core\\Softbreak.OnionArch.DOMAIN\\Softbreak.OnionArch.DOMAIN.csproj|c:\\users\\90554\\source\\repos\\softbreak.onionarch\\core\\softbreak.onionarch.domain\\entities\\concretes\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31407566-F47B-4A68-BA7D-2046967454B3}|Core\\Softbreak.OnionArch.DOMAIN\\Softbreak.OnionArch.DOMAIN.csproj|solutionrelative:core\\softbreak.onionarch.domain\\entities\\concretes\\appuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE78396-9A27-4BDD-B3E9-EBF3F523CB3E}|Infrastructure\\Softbreak.OnionArch.Persistence\\Softbreak.OnionArch.Persistence.csproj|c:\\users\\90554\\source\\repos\\softbreak.onionarch\\infrastructure\\softbreak.onionarch.persistence\\configurations\\appuserroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE78396-9A27-4BDD-B3E9-EBF3F523CB3E}|Infrastructure\\Softbreak.OnionArch.Persistence\\Softbreak.OnionArch.Persistence.csproj|solutionrelative:infrastructure\\softbreak.onionarch.persistence\\configurations\\appuserroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250223153158_initial.cs",
+              "DocumentMoniker": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Infrastructure\\Softbreak.OnionArch.Persistence\\Migrations\\20250223153158_initial.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Softbreak.OnionArch.Persistence\\Migrations\\20250223153158_initial.cs",
+              "ToolTip": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Infrastructure\\Softbreak.OnionArch.Persistence\\Migrations\\20250223153158_initial.cs",
+              "RelativeToolTip": "Infrastructure\\Softbreak.OnionArch.Persistence\\Migrations\\20250223153158_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:31:58.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Softbreak.OnionArch.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Presentation\\Softbreak.OnionArch.WebAPI\\Softbreak.OnionArch.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Softbreak.OnionArch.WebAPI\\Softbreak.OnionArch.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Presentation\\Softbreak.OnionArch.WebAPI\\Softbreak.OnionArch.WebAPI.csproj",
+              "RelativeToolTip": "Presentation\\Softbreak.OnionArch.WebAPI\\Softbreak.OnionArch.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T15:28:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Infrastructure\\Softbreak.OnionArch.Persistence\\Configurations\\AppUserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Softbreak.OnionArch.Persistence\\Configurations\\AppUserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Infrastructure\\Softbreak.OnionArch.Persistence\\Configurations\\AppUserRoleConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Softbreak.OnionArch.Persistence\\Configurations\\AppUserRoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:21:44.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.DOMAIN\\Entities\\Concretes\\AppUserRole.cs",
+              "RelativeDocumentMoniker": "Core\\Softbreak.OnionArch.DOMAIN\\Entities\\Concretes\\AppUserRole.cs",
+              "ToolTip": "C:\\Users\\90554\\source\\repos\\Softbreak.OnionArch\\Core\\Softbreak.OnionArch.DOMAIN\\Entities\\Concretes\\AppUserRole.cs",
+              "RelativeToolTip": "Core\\Softbreak.OnionArch.DOMAIN\\Entities\\Concretes\\AppUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:21:10.714Z"
             }
           ]
         }

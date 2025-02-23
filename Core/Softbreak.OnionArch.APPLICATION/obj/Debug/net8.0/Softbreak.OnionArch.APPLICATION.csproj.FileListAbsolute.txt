@@ -1,0 +1,16 @@
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\bin\Debug\net8.0\Softbreak.OnionArch.APPLICATION.deps.json
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\bin\Debug\net8.0\Softbreak.OnionArch.APPLICATION.dll
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\bin\Debug\net8.0\Softbreak.OnionArch.APPLICATION.pdb
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\bin\Debug\net8.0\Softbreak.OnionArch.DOMAIN.dll
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\bin\Debug\net8.0\Softbreak.OnionArch.DOMAIN.pdb
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.csproj.AssemblyReference.cache
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.AssemblyInfoInputs.cache
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.AssemblyInfo.cs
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.sourcelink.json
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbrea.96E296FA.Up2Date
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.dll
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\refint\Softbreak.OnionArch.APPLICATION.dll
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\Softbreak.OnionArch.APPLICATION.pdb
+C:\Users\90554\source\repos\Softbreak.OnionArch\Core\Softbreak.OnionArch.APPLICATION\obj\Debug\net8.0\ref\Softbreak.OnionArch.APPLICATION.dll
